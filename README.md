@@ -2,15 +2,28 @@
 
 ## 📖 **Overview**  
 Dive into the **Paris 2024 Olympics** with this interactive **Power BI Dashboard**, capturing all the action from August 2024! This project showcases medal tallies, athlete performances, country comparisons, and more, offering a comprehensive view of the event.  
+
 ![Dashboard Preview](https://github.com/SharmaKanishkaa/Paris-2024-Olympics-Data-Analysis/blob/main/Olympic-Dashboard_page-0001.jpg)
 
 ---
 
 ## ✨ **Features**  
 - **🥇 Medal Tally**: Breakdown of **gold**, **silver**, and **bronze** medals by country and sport.
-- **🌍 Country Comparisons**: Visual comparisons of countries’ performances across various metrics.  
-- **🏃 Athlete Performance**: Insights into individual athlete achievements and records.  
-- **📊 Historical Data**: Compare with previous Olympics to uncover trends and patterns.  
+- 
+  ![ Medal Tally](https://github.com/SharmaKanishkaa/Paris-2024-Olympics-Data-Analysis/blob/main/Olympic-Dashboard_page-0002.jpg)
+  
+- **🌍 Country Comparisons**: Visual comparisons of countries’ performances across various metrics.
+  
+  ![Country Comparisons](https://github.com/SharmaKanishkaa/Paris-2024-Olympics-Data-Analysis/blob/main/Olympic-Dashboard_page-0003.jpg)
+  
+- **🏃 Athlete Performance**: Insights into individual athlete achievements and records.
+
+  ![Athlete Performance](https://github.com/SharmaKanishkaa/Paris-2024-Olympics-Data-Analysis/blob/main/Olympic-Dashboard_page-0004.jpg)
+  
+- **📊 Historical Data**: Compare with previous Olympics to uncover trends and patterns.
+
+  ![ Historical Data](https://github.com/SharmaKanishkaa/Paris-2024-Olympics-Data-Analysis/blob/main/Olympic-Dashboard_page-0005.jpg)
+  
 - **🎨 Interactive Visualizations**: Filters and visuals for customizable insights.  
 
 ---
