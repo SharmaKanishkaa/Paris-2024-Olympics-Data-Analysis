@@ -60,9 +60,7 @@ Dive into the **Paris 2024 Olympics** with this interactive **Power BI Dashboard
 ---
 
 ## 📚 **Data Sources**  
-- **📡 Olympic Data Feed**: Official data from the International Olympic Committee.  
-- **🌐 Public APIs**: Athlete statistics and country profiles.  
-- **🕰️ Historical Archives**: Data from past Olympics for comparative insights.  
+- **📡 Olympic Data Feed**: Data from Kaggle.   
 
 ---
 
@@ -88,13 +86,3 @@ This project dives deep into the factors contributing to **Olympic triumph**, re
 - The complexity of **medal success** across sports and nations.  
 - The importance of athleticism, endurance, skill, and teamwork.  
 - The **United States** as a versatile leader and **China/Japan** as specialists.  
-
-By understanding these elements, we aim to inspire the **Olympic spirit** of **dedication, perseverance, teamwork, and excellence**, paving the way for future advancements in sports.  
-
-🎯 **Let this analysis ignite inspiration for athletes and nations striving for greatness!**  
-
----  
-
-🌟 _Feel free to fork, contribute, or explore!_  
-📧 **Contact**: YourName@example.com  
-📂 **Repo Link**: [GitHub Repository](https://github.com/yourusername/Paris2024OlympicsDashboard)  
