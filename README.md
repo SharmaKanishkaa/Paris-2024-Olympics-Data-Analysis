@@ -2,6 +2,7 @@
 
 ## 📖 **Overview**  
 Dive into the **Paris 2024 Olympics** with this interactive **Power BI Dashboard**, capturing all the action from August 2024! This project showcases medal tallies, athlete performances, country comparisons, and more, offering a comprehensive view of the event.  
+![Dashboard Preview]([images/dashboard.png](https://github.com/SharmaKanishkaa/Paris-2024-Olympics-Data-Analysis/blob/main/Olympic-Dashboard_page-0001.jpg))
 
 ---
 
