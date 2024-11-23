@@ -9,7 +9,7 @@
 
 ## ✨ **Features**  
 - **🥇 Medal Tally**: Breakdown of **gold**, **silver**, and **bronze** medals by country and sport.
-- 
+  
   ![ Medal Tally](https://github.com/SharmaKanishkaa/Paris-2024-Olympics-Data-Analysis/blob/main/Olympic-Dashboard_page-0002.jpg)
   
 - **🌍 Country Comparisons**: Visual comparisons of countries’ performances across various metrics.
@@ -52,7 +52,7 @@
 ### **📦 Steps**  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/Paris2024OlympicsDashboard.git  
+   git clone https://github.com/SharmaKanishkaa/Paris-2024-Olympics-Data-Analysis.git  
    ```  
 2. Open the `Olympic_2024_Dashboard.pbix` file in Power BI Desktop.  
 3. Refresh data sources if needed.  
